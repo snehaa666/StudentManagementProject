@@ -1,5 +1,6 @@
+from http.server import BaseHTTPRequestHandler
 class StudentRouter(BaseHTTPRequestHandler):
-def do_GET(self):
+ def do_GET(self):
         path = urlparse(self.path).path
 
         # if path in ("/", "/index.html"):
