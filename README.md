@@ -12,7 +12,7 @@ This project helps you understand how real web apps work:
 * modular JavaScript
 * frontend–backend communication
 
----
+![image alt](https://github.com/snehaa666/StudentManagementProject/blob/33bc02415e29a275e5bcc77fcc75a5f812f6e53e/_-%20visual%20selection%20(1).png)
 
 ## 🚀 **What This Project Demonstrates**
 
